@@ -1,5 +1,5 @@
 ---
-title: IOC和DI
+title: IOC和DI(建议回顾)
 date: 2022-09-23 09:25:00
 author: scy
 img: https://cdn.jsdelivr.net/gh/Shirasawa-zs/BlogImage@main/img/20220925112758.png

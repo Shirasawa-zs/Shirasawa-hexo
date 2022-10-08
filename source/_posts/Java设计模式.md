@@ -1,5 +1,5 @@
 ---
-title: 设计模式前瞻
+title: 设计模式前瞻(需要掌握的)
 date: 2022-09-25 09:25:00
 author: scy
 top: true
@@ -27,7 +27,7 @@ tags:
 
 
 
-![img](https://upload-images.jianshu.io/upload_images/2799767-3f16972d7b062110.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/747/format/webp)
+![](https://cdn.jsdelivr.net/gh/Shirasawa-zs/BlogImage@main/img/20221002211204.png)
 
 **img**
 
