@@ -37,7 +37,7 @@ JSON Web Token (JWT) is an open standard ([RFC 7519](https://tools.ietf.org/html
 ## 2.JWT能做什么
 
 ```markdown
-# 1.授权
+# 后钱啊t'f'r'g'q'q'a1.授权
 - 这是使用JWT的最常见方案。一旦用户登录，每个后续请求将包括JWT，从而允许用户访问该令牌允许的路由，服务和资源。单点登录是当今广泛使用JWT的一项功能，因为它的开销很小并且可以在不同的域中轻松使用。
 
 # 2.信息交换

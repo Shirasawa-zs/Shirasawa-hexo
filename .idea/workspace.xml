@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f367b14c-74e9-420a-bc55-5de31e0afd63" name="Default Changelist" comment="" />
+    <list default="true" id="f367b14c-74e9-420a-bc55-5de31e0afd63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/JWT 实战教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JWT 实战教程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/杂谈.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/杂谈.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664340986079</updated>
       <workItem from="1664340990542" duration="3000" />
+      <workItem from="1672335791480" duration="9000" />
     </task>
     <servers />
   </component>
